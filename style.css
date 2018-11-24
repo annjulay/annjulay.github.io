@@ -26,7 +26,7 @@ body {
 }
 
 .image {
-    background-color: violet;
+    background-color: rgb(238, 130, 238);
     width: 300px;
     border-radius: 3px;
     padding: 10px 20px;
